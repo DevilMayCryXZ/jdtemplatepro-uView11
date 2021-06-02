@@ -6,6 +6,10 @@ import {
 } from './router.js'
 Vue.use(router)
 
+// uview
+import uView from "uview-ui";
+Vue.use(uView);
+
 import App from './App' 
 
 // Vue.prototype.$httpPath="http://192.168.0.121:8800";

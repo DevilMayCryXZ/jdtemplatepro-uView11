@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "uni-read-pages": "^1.0.5",
-    "uni-simple-router": "^2.0.5"
+    "uni-simple-router": "^2.0.5",
+    "uview-ui": "^1.8.4"
   }
 }
